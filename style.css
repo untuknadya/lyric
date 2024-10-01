@@ -20,7 +20,7 @@ body {
 }
 
 body a {
-    color: inherit;
+    color: #ffffff;
 }
 
 body a:not(:hover) {
